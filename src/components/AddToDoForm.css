@@ -3,6 +3,7 @@
   padding: 2px !important;
   border-radius: 6px;
   border: 1px solid rgba(128, 0, 128, 0.257);
+  color: purple !important;
 }
 
 .input-add::placeholder {
@@ -15,5 +16,5 @@
 }
 .add-btn {
   border: 1px solid rgba(128, 0, 128, 0.257);
-  color:rgba(128, 0, 128, 0.838);
+  color: rgba(128, 0, 128, 0.838);
 }

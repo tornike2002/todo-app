@@ -6,8 +6,7 @@ import ToDoListDest from "./components/ToDoListDest";
 function App() {
   return (
     <div className="App">
-      <div className="container-fluid video-bg d-flex flex-column align-items-center justify-content-center">
-        <video className="video" autoPlay loop muted src={videobg}></video>
+      <div className="video-bg d-flex flex-column align-items-center justify-content-center">
         <div className="todo-elements">
           <AddToDoForm />
           <ToDoListDest />
