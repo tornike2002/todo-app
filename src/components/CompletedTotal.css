@@ -1,0 +1,6 @@
+.todo-completed h1:nth-child(1) {
+  color: rgba(128, 0, 128, 0.712);
+}
+.todo-completed h1:nth-child(2) {
+  color: rgba(126, 46, 81, 0.84);
+}

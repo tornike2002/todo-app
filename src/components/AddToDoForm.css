@@ -1,0 +1,19 @@
+.input-add {
+  background: transparent;
+  padding: 2px !important;
+  border-radius: 6px;
+  border: 1px solid rgba(128, 0, 128, 0.257);
+}
+
+.input-add::placeholder {
+  color: purple;
+  padding-left: 3px;
+}
+.input-add:focus {
+  background-color: rgba(128, 0, 128, 0.257);
+  outline: none;
+}
+.add-btn {
+  border: 1px solid rgba(128, 0, 128, 0.257);
+  color:rgba(128, 0, 128, 0.838);
+}

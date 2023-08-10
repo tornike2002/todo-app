@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Sriracha&display=swap");
+.todo-title {
+  color: purple;
+  font-family: "Sriracha", cursive;
+  font-size: larger;
+}
+
+.todo-btn {
+  border: 1px solid rgba(128, 0, 128, 0.257);
+  color: rgba(188, 91, 34, 0.811);
+}
+.successed {
+  background-color: rgba(128, 0, 128, 0.257);
+  border-radius: 10px;
+}
