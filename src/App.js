@@ -1,5 +1,4 @@
 import "./App.css";
-import videobg from "./assets/pink.mov";
 import AddToDoForm from "./components/AddToDoForm";
 import CompletedTotal from "./components/CompletedTotal";
 import ToDoListDest from "./components/ToDoListDest";
